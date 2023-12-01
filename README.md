@@ -1,5 +1,5 @@
 # Advent-of-Code-2022
-![Build status](https://github.com/sinkovec/Advent-of-Code-2023/actions/workflows/go.yml/badge.svg)
+![Build status](https://github.com/sinkovec/Advent-of-Code-2023/actions/workflows/go.yaml/badge.svg)
 
 These are my solutions for the [Advent of Code 2023](https://adventofcode.com/2023).
 The solutions are written in Go.
