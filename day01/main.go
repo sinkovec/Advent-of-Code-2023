@@ -9,14 +9,14 @@ import (
 
 func main() {
 	data := util.ReadStringPerLine("day01/input.txt")
-	result := day01(data)
+	result := task01(data)
 	fmt.Println(result)
 
-	result = day02(data)
+	result = task02(data)
 	fmt.Println(result)
 }
 
-func day01(data []string) int {
+func task01(data []string) int {
 	r, _ := regexp.Compile(`[0-9]`)
 	result := 0
 	for _, line := range data {
@@ -31,6 +31,6 @@ func day01(data []string) int {
 	return result
 }
 
-func day02(data []string) int {
+func task02(data []string) int {
 	return 0
 }
