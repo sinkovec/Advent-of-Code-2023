@@ -11,10 +11,10 @@ Run `go test ./...` to run the tests, and `./run.sh` to get the solutions for th
 
 | Day | Task 1 | Task 2 |
 | --- | ------ | ------ |
-|   1 |      ✓ |        |
-|   2 |        |        |
-|   3 |        |        |
-|   4 |        |        |
+|   1 |      ✓ |      ✓ |
+|   2 |      ✓ |      ✓ |
+|   3 |      ✓ |        |
+|   4 |      ✓ |      ✓ |
 |   5 |        |        |
 |   6 |        |        |
 |   7 |        |        |
